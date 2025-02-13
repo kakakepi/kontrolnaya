@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControlEsche")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c673250a5a2f505903989d1f2bd40572a7a36621")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec904ee95b0957c77111e1f74e227df42268b3f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControlEsche")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControlEsche")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

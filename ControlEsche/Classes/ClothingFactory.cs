@@ -6,7 +6,7 @@ namespace Lab9
         {
             this.name = name;
         }
-        public override Product CreateProduct(string name, int quantity, int price)
+        public override Product CreateProduct(string name, int quantity, decimal price)
         {
             return new Clothing(name,quantity,price);
         }
